@@ -1,4 +1,4 @@
-# TetanggaKU
+! [TetanggaKU] (logo.png)
 Upaya untuk mendata profesi dan kemampuan yang dimiliki tetangga di kampung atau desa tempat kita tinggal
 
 Sebuah upaya untuk mendata profesi/kemampuan yang dimiliki tetangga di kampung atau desa tempat kita tinggal, data tersebut nantinya dicetak, dibagikan ke tiap tetangga dan juga ditempel di tempat berkumpul (seperti masjid/gereja/dll) lalu mereka bisa menggunakannya untuk melakukan jual beli barang atau pun jasa dengan tetangganya ataupun berkolaborasi satu sama lain untuk meningkatkan resiliensi/ketahanan serta kemandirian kampung/desa. Dasarnya adalah peer to peer.
